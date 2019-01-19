@@ -59,23 +59,24 @@ pip install keras
 ## Result
 * Result
 <p align="center"> 
-<img src="https://github.com/yunhyuck/OpenSourceProject/blob/master/20190118_190103.jpg?raw=true">
+<img src="https://github.com/yunhyuck/OpenSourceProject/blob/add-license-1/picture/20190118_190103.jpg?raw=true">
 </p>
 
 
 * Kaggle
 <p align="center"> 
-<img src="https://github.com/yunhyuck/OpenSourceProject/blob/master/%EC%BA%A1%EC%B2%98.PNG?raw=true">
+<img src="https://github.com/yunhyuck/OpenSourceProject/blob/add-license-1/picture/%EC%BA%A1%EC%B2%98.PNG?raw=true">
 </p>
 
 ## Addition
 <p align="center"> 
-<img src="https://github.com/yunhyuck/OpenSourceProject/blob/master/20190119_175616.jpg?raw=true">
+<img src="https://github.com/yunhyuck/OpenSourceProject/blob/add-license-1/picture/20190119_175616.jpg?raw=true">
 </p>
 
 <p align="center"> 
-<img src="https://github.com/yunhyuck/OpenSourceProject/blob/master/20190119_175628.jpg?raw=true">
+<img src="https://github.com/yunhyuck/OpenSourceProject/blob/add-license-1/picture/20190119_175628.jpg?raw=true">
 </p>
 
 
-# Final Source : Untitled3.ipynb
+# Final Source : Facial.ipynb
+# Addition Aplication : Addition Aplication.ipynb
