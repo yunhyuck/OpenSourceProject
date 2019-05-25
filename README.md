@@ -1,6 +1,10 @@
 # Kaggle Facial Keypoints Detection With Keras
 
 https://www.kaggle.com/c/facial-keypoints-detection
+
+syntax: [download : facial_key.h5](https://drive.google.com/file/d/1J3jlaI0SR12UQwthBJRWfUfmiZr4iSfo/view?usp=sharing
+)
+
 ## Introduction
 CNN을 사용하여 눈, 코, 입 등과 같은 인간의 얼굴의 키포인트를 감지합니다.
 교육 데이터 'training.csv'와 테스트 데이터 'test.csv'는 Kaggle https://www.kaggle.com/c/facial-keypoints-detection/data 에서 다운로드 할 수 있습니다.
