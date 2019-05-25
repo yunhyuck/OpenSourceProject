@@ -2,7 +2,7 @@
 
 https://www.kaggle.com/c/facial-keypoints-detection
 
-syntax: [download : facial_key.h5](https://drive.google.com/file/d/1J3jlaI0SR12UQwthBJRWfUfmiZr4iSfo/view?usp=sharing
+download: [facial_key.h5](https://drive.google.com/file/d/1J3jlaI0SR12UQwthBJRWfUfmiZr4iSfo/view?usp=sharing
 )
 
 ## Introduction
